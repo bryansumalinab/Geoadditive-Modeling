@@ -1,0 +1,25 @@
+R version 4.3.3 (2024-02-29 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=Dutch_Belgium.utf8  LC_CTYPE=Dutch_Belgium.utf8   
+[3] LC_MONETARY=Dutch_Belgium.utf8 LC_NUMERIC=C                  
+[5] LC_TIME=Dutch_Belgium.utf8    
+
+time zone: Europe/Brussels
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] Matrix_1.6-5
+
+loaded via a namespace (and not attached):
+ [1] MASS_7.3-60.0.1   compiler_4.3.3    tools_4.3.3       dotCall64_1.1-1  
+ [5] fields_15.2       maps_3.4.2        Rcpp_1.0.12       grid_4.3.3       
+ [9] spam_2.10-0       viridisLite_0.4.2 lattice_0.22-5   
