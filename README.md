@@ -9,7 +9,7 @@ The R codes used in the simulation study are located in the **Simulation** folde
 
 The main functionalities for each model type are implemented in the scripts ***Krig.NB*** (for Negative Binomial models), ***Krig.Pois*** (for Poisson models), and ***Krig.Gauss*** (for Gaussian models).  These scripts include an option *cov.model* that allows for the specification of different covariance functions, such as exponential, Matern, circular, and spherical.
 
-The **Simulation** folder also includes additional simulation results for Gaussian data without covariates (**Comparison with likfit**), comparing the classical kriging approach with the proposed low-rank Bayesian approach, and the comparison of computation time.
+The **Simulation** folder also contains simulation results for the INLA-SPDE approach (**INLA-SPDE**) and a comparison of the proposed low-rank Bayesian approach with the classical kriging approach (**Comparison with likfit**).
 
 ## Real Data Application
 For real data applications, the **RealData** folder contains R codes to analyze the Meuse river data demonstrating the practical application of the proposed methods on real-world datasets.
